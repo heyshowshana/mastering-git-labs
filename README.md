@@ -3,19 +3,18 @@
 
 ## Class 5
 
-TBD
-
 ### Lab
 
-* I think reset, checkout
-* Would be nice to resolve some conflicts or something
-* Rebase is always great
-
-
-## Class 4
-
-Content missing
-
+* Clone the lab repo `git clone https://github.com/TomasTomecek/mastering-git-labs`
+* Switch to "finalize-class5"
+* Rebase the branch against main
+* 😱 Resolve those merge conflicts 😱 (how? drop outdated content, replace with useful information)
+  * After cat walks across your keyboard, *again*, bring back the conflicts (`git checkout --conflict README.md`)
+* Once done:
+  * Undo last commit
+  * Inspect README.md on main
+  * Make the finalize-class5 branch exactly the same as main
+  * And change it back
 
 ## Class 3
 
